@@ -34,4 +34,5 @@ This project focused on the application of machine learning algorithms to predic
 
 ## Work Experience
 - Data Analyst @ Vegenius Restaurant Taiwan (2021-2022)
+
 Conducted trend analysis among the youth population was utilized to strategically enter and expand the business's presence in the vegetarian market. The successful implementation of this data-driven approach led to significant growth, manifesting in the acquisition of 20,000 likes and followers on the restaurant's Facebook fan page. Further enhancing the restaurant's popularity among young adults and non-vegetarian diners was achieved through the use of Facebook analytics and the creation of diner surveys. The project effectively demonstrated the power of data analytics in identifying market trends and driving targeted business expansion in the vegetarian restaurant industry.
