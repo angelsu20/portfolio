@@ -18,6 +18,7 @@ The project encompassed an in-depth cohort analysis of transaction data for a Bi
 
 ### Hotel Booking Dashboard Visualization
 [Dashboard (Tableau Public)](https://public.tableau.com/app/profile/jiaxun.li/viz/Hotelbooking-finalproject/Story1)
+
 [link](https://drive.google.com/file/d/1ukXWW06P3A6sberKarA_Dgiqm0znFoYs/view?usp=sharing)
 
 This project involved the creation of an interactive Tableau dashboard that provided a comprehensive exploration and visualization of hotel booking data. The dashboard included various data visualizations such as geospatial maps, histograms, and bar charts, highlighting the major factors influencing hotel pricing. In addition to the visual representation, time series analysis was utilized to determine seasonal trends in traveler booking patterns and hotel prices. This helped identify key drivers of pricing changes, thereby enabling users to make data-driven decisions for optimal hotel reservations. The project delivered a user-friendly tool for understanding hotel booking dynamics, facilitating more informed decision-making based on clear insights and trends.
