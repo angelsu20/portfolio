@@ -1,5 +1,7 @@
 # Data Analyst
 
+Hi, this is Angel. As a Business Analytics and Finance postgraduate from Johns Hopkins University Carey Business School. I'm adept at utilizing Python, SQL, and R for data analysis, and Tableau for compelling data visualization. My diverse project experience across various sectors demonstrates my adaptability, project management skills, and ability to derive key insights from data. Leveraging these project experiences, I am well-equipped to turn complex data into strategies that drive business growth.
+
 Technical Skills
 ----
 - Programming Languages: Python (Jupyter, PyCharm, VS), SQL (PostgreSQL, MySQL), R
