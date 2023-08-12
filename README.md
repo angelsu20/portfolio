@@ -15,6 +15,11 @@ Technical Skills
 - B.S./B.A, Information Management and Finance/ Foreign Languages and Literature | National Yang Ming Chiao Tung University (Aug 2022)
 
 ## Project Experience
+
+### Mobile Games A/B Testing with Cookie Cats for Player Retention
+[link](https://colab.research.google.com/drive/1yGLNdvQRRpfOqcX78iXtsBLOgcX01dRb?usp=sharing)
+The project is an A/B Testing Analysis for a popular mobile game, focusing on the impact of gate placements on player retention. It entailed rigorous data preprocessing, exploratory data analysis, and visualization to illuminate key player behavior patterns. Central to this analysis was the calculation and comparison of 1-day and 7-day retention rates for both the control (gate_30) and treatment (gate_40) groups. This comparison aimed to identify significant differences in player retention resulting from different gate placements. To bolster the reliability of these findings, bootstrapping techniques were employed, providing enhanced validation of the observed retention rate discrepancies.
+
 ### Bikes & Cycling Accessories Organization's Transactions Data Based Cohort Analysis
 The project encompassed an in-depth cohort analysis of transaction data for a Bikes & Cycling Accessories Organization during a KPMG virtual internship. Key steps included data extraction from API sources via Unix command lines, followed by data preprocessing and exploratory data analysis. This process revealed key insights from bicycle transactions. The developed cohort analysis provided a comprehensive visualization of the organization's business KPIs through heatmaps. A significant component was the calculation of the retention rate on a monthly basis, aimed at determining the crucial factors influencing customer behavior. This comprehensive data analysis project offered essential insights that can guide the organization's strategic decisions in terms of customer retention and product marketing.
 
