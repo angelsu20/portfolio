@@ -18,6 +18,7 @@ Technical Skills
 
 ### Mobile Games A/B Testing with Cookie Cats for Player Retention
 [link](https://colab.research.google.com/drive/1yGLNdvQRRpfOqcX78iXtsBLOgcX01dRb?usp=sharing)
+
 The project is an A/B Testing Analysis for a popular mobile game, focusing on the impact of gate placements on player retention. It entailed rigorous data preprocessing, exploratory data analysis, and visualization to illuminate key player behavior patterns. Central to this analysis was the calculation and comparison of 1-day and 7-day retention rates for both the control (gate_30) and treatment (gate_40) groups. This comparison aimed to identify significant differences in player retention resulting from different gate placements. To bolster the reliability of these findings, bootstrapping techniques were employed, providing enhanced validation of the observed retention rate discrepancies.
 
 ### Bikes & Cycling Accessories Organization's Transactions Data Based Cohort Analysis
