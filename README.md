@@ -1,12 +1,13 @@
-# Data Analyst
+# Data Science Analyst
 
-Hi, this is Angel. As a Business Analytics and Finance postgraduate from Johns Hopkins University Carey Business School. I'm adept at utilizing Python, SQL, and R for data analysis, and Tableau for compelling data visualization. My diverse project experience across various sectors demonstrates my adaptability, project management skills, and ability to derive key insights from data. Leveraging these project experiences, I am well-equipped to turn complex data into strategies that drive business growth.
+Hi, this is Angel. As an analytical professional with a double master's in Finance and Business Analytics and Risk Management from Johns Hopkins Carey Business School. My diverse experience includes roles as a Data Scientist Intern at Eth Tech, where I leveraged Python, SQL, and A/B testing to enhance user segmentation and marketing strategies, and as a Data Analyst Intern at the Center for American Progress, where I developed advanced Tableau dashboards and real-time SQL data pipelines. I have also contributed significantly to data-driven decision-making in the restaurant industry as a Data Science Analyst at Veggienius in Taiwan.
+
 
 Technical Skills
 ----
-- Programming Languages: Python (Jupyter, PyCharm, VS), SQL (PostgreSQL, MySQL), R
-- Methodologies: Machine Learning, Deep Learning, Natural Language Processing; Statistical Inference, A/B Testing, Hypothesis testing, Probability, Simulations, Confidence Intervals, Correlation, Regression
-- Software: Excel, Advanced Microsoft Excel, Word, PowerPoint, Tableau, Google Analytics, @RISK, GAMS
+- Programming Languages: Python (Pandas, Scikit-Learn, Pytorch), SQL, R
+- Methodologies: A/B Testing, Data Wrangling, Database Management, Data Visualization, Time Series Forecasting, Machine Learning, Deep Learning, Statistics
+- Data Tools: Tableau, Excel, Databricks, Pyspark, Power BI, Git, LaTeX, SAS, GCP, AWS, Snowflakes
 - Data Engineering:  ETL, Data Extraction, Manipulation and Database Management, Data Pipeline
 
 ## Education
@@ -14,34 +15,33 @@ Technical Skills
 - M.S., Business Analytics and Risk Management | Johns Hopkins University Carey Business School (Aug 2023)
 - B.S./B.A, Information Management and Finance/ Foreign Languages and Literature | National Yang Ming Chiao Tung University (Aug 2022)
 
-## Project Experience
-
-### Mobile Games A/B Testing with Cookie Cats for Player Retention
-[link](https://colab.research.google.com/drive/1yGLNdvQRRpfOqcX78iXtsBLOgcX01dRb?usp=sharing)
-
-The project is an A/B Testing Analysis for a popular mobile game, focusing on the impact of gate placements on player retention. It entailed rigorous data preprocessing, exploratory data analysis, and visualization to illuminate key player behavior patterns. Central to this analysis was the calculation and comparison of 1-day and 7-day retention rates for both the control (gate_30) and treatment (gate_40) groups. This comparison aimed to identify significant differences in player retention resulting from different gate placements. To bolster the reliability of these findings, bootstrapping techniques were employed, providing enhanced validation of the observed retention rate discrepancies.
-
-### Bikes & Cycling Accessories Organization's Transactions Data Based Cohort Analysis
-The project encompassed an in-depth cohort analysis of transaction data for a Bikes & Cycling Accessories Organization during a KPMG virtual internship. Key steps included data extraction from API sources via Unix command lines, followed by data preprocessing and exploratory data analysis. This process revealed key insights from bicycle transactions. The developed cohort analysis provided a comprehensive visualization of the organization's business KPIs through heatmaps. A significant component was the calculation of the retention rate on a monthly basis, aimed at determining the crucial factors influencing customer behavior. This comprehensive data analysis project offered essential insights that can guide the organization's strategic decisions in terms of customer retention and product marketing.
-
-### Hotel Booking Dashboard Visualization
-[Dashboard (Tableau Public)](https://public.tableau.com/app/profile/jiaxun.li/viz/Hotelbooking-finalproject/Story1)
-
-[link](https://drive.google.com/file/d/1ukXWW06P3A6sberKarA_Dgiqm0znFoYs/view?usp=sharing)
-
-This project involved the creation of an interactive Tableau dashboard that provided a comprehensive exploration and visualization of hotel booking data. The dashboard included various data visualizations such as geospatial maps, histograms, and bar charts, highlighting the major factors influencing hotel pricing. In addition to the visual representation, time series analysis was utilized to determine seasonal trends in traveler booking patterns and hotel prices. This helped identify key drivers of pricing changes, thereby enabling users to make data-driven decisions for optimal hotel reservations. The project delivered a user-friendly tool for understanding hotel booking dynamics, facilitating more informed decision-making based on clear insights and trends.
-
-### Diabetes Prediction Dataset
-[link](https://colab.research.google.com/drive/1sm_sJGefGh_JGsjzBYL-_TRhxUNWM4Yk?usp=sharing)
-
-Conducted a variety of supervised machine learning models including logistic regression, SVM, decision tree, naive Bayes, K-NN, MLP, random forest, and boosted tree models to predict the onset of diabetes based on medical and demographic factors using a Kaggle diabetes dataset. Preprocessing pipelines were developed for machine learning model optimization, incorporating hyperparameter optimization with GridSearch, SMOTE oversampling, and K-fold cross-validation. The project significantly employed explainable AI metrics such as permutation importance, feature importance, Shapley values, partial dependence plots, surrogate models, Shapley Value (Local), and Individual Conditional Expectation plots to determine the public health factors contributing most to the increased risk of diabetes. Based on the feature importance metrics, early detection screening protocols were created for patients at high risk for diabetes. The outcome was an effective tool for predicting diabetes onset and a protocol for early intervention in high-risk individuals.
-
-### Loan Eligibility Prediction Using Machine Learning Algorithm
-[link](https://drive.google.com/file/d/1JLYaCkeVGE2O_jAB7AkMHr2iZe0hrxX9/view?usp=sharing)
-
-This project focused on the application of machine learning algorithms to predict loan eligibility based on applicant demographics, utilizing a dataset sourced from Kaggle. Initial phases included data preprocessing, exploratory data analysis, and correlation analysis to extract key insights. Machine learning classification models, specifically Decision Tree and Random Forest, were developed in R to predict loan eligibility based on the details of the applicants. The performance of these models was then compared to select the most effective prediction tool. This project, hence, resulted in a robust system capable of accurately predicting loan eligibility, thereby assisting financial institutions in decision-making processes related to loan approvals.
-
 ## Work Experience
-- Data Analyst @ Vegenius Restaurant Taiwan (2021-2022)
 
-Conducted trend analysis among the youth population was utilized to strategically enter and expand the business's presence in the vegetarian market. The successful implementation of this data-driven approach led to significant growth, manifesting in the acquisition of 20,000 likes and followers on the restaurant's Facebook fan page. Further enhancing the restaurant's popularity among young adults and non-vegetarian diners was achieved through the use of Facebook analytics and the creation of diner surveys. The project effectively demonstrated the power of data analytics in identifying market trends and driving targeted business expansion in the vegetarian restaurant industry.
+Data Scientist Intern (Apr 2024 - Aug 2024)
+Eth Tech Newark, CA
+● Gathered and cleaned data in SQL, built and tested K-means models using Python to segment users of an e-commerce company into four distinct groups, resulting in a 1.5% increase in conversion rates through targeted marketing strategies
+● Conducted and analyzed 10+ A/B testing experiments for email campaigns, identified and recommended a highperforming version that improved email click-through rates (CTR) by 3%
+● Designed and implemented ETL solutions with over 200GB data. Maintain data infrastructure including building more than 10 data tables, reconstructed the databased structure, improving the query efficiency about 50%
+● Conducted statistical analysis to diagnose conversion rate decline. Performed SQL queries to identify underperforming user segment, leading to targeted fixes of key website issues
+
+Data Analyst Intern (Feb 2024 - Apr 2024)
+Center for American Progress (CAP) (Public Policy Think Tank) Washington, DC
+● Conducted statistical analysis, built predictive models (Logistic Regression, XGBoost) in Python to identify participants that are at risk of discontinuing their involvement in programs, allowing for targeted retention strategies
+● Constructed and tested data pipeline and fully automated & interactive Tableau dashboards, integrating data from Salesforce, Paycom, and SharePoint via ETL processes, enabling HR teams to track KPIs and analyze workforce trends
+● Collaborated closely with cross-functional product team to analyze data in SQL, evaluating program effectiveness by assessing 1M+ health outcomes and cost data, providing management with insights for informed decision-making
+
+Business Data Analyst (Oct 2020 - Mar 2022)
+Veggienius Taiwan Taipei, Taiwan
+● Conducted exploratory data analysis to understand patterns and trends on 70K+ user records from restaurant order history by age cohort using Python data visualization tools such as Matplotlib and Seaborn, identifying a segment interested in vegetarian options and initiating targeted A/B testing
+● Developed and executed an A/B testing experiments for the restaurant website homepage, tailored to a specific user demographic, achieving a 8% increase in user conversion rates
+● Constructed and tested data pipeline and fully automated & interactive Tableau dashboards to analyze market potential, converted report data to actionable items, resulting in over a 10% improvement in decision-making effectiveness
+
+## PROJECTS
+Credit Card Default Detection Jan 2024 - Apr 2024
+● Conducted exploratory data analysis to understand the pattern differences between the training data and testing data to ensure that the features/variables in the training and testing set were drawn from the same distribution
+● Utilized Scikit-learn to perform a grid search and identify the optimal parameter combination
+● Implemented model ensemble with a Voting Classifier, combining Logistic Regression, KNeighbors Classifier, and Random Forest Classifier to enhance model accuracy
+NLP-Driven Sentiment Enhancement for User Engagement in Restaurant Reviews Oct 2023 - Dec 2023
+● Analyzed 2M+ restaurant reviews from a Yelp-like platform using Python and NLP techniques to extract sentiment
+● Implemented sentiment icons alongside reviews based on the analysis, resulting in a 6% increase in platform reviews
+and improved user engagement and understanding
